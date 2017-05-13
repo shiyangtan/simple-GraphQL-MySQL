@@ -1,0 +1,17 @@
+{
+  "name": "graphql-live-search",
+  "version": "1.0.0",
+  "description": "A live search implemented using GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tan Shi Yang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-graphql": "^0.6.4",
+    "graphql": "^0.9.6",
+    "mysql": "^2.13.0"
+  }
+}
